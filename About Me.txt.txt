@@ -19,3 +19,13 @@ apply them in my projects. Clarity of thought process and articulation is one of
 
 You are the sky that fuels my flight.
 I am but, just a shadow of you.
+
+
+
+
+I build software out of passion all day long, and I'm good at it. I write efficient and maintainable low latency software for High Frequency Trading in C++, with a belief that code quality need not be compromised for performance. I'm also a programming polyglot, and have a wide array of advanced Computer Science skills useful across the board.
+
+I have many open source projects on Github which have received significant attention and are used by the community; and have two research publications. Strong background in functional programming.
+
+Above-par reasoning and technical know-how. Confident of being able to take any challenge to its completion.
+I have won multiple competitions in App Development, Security, and am a recipient of multiple scholarships and awards.
