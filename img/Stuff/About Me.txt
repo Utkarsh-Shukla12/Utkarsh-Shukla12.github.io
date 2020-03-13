@@ -29,3 +29,23 @@ I have many open source projects on Github which have received significant atten
 
 Above-par reasoning and technical know-how. Confident of being able to take any challenge to its completion.
 I have won multiple competitions in App Development, Security, and am a recipient of multiple scholarships and awards.
+
+
+
+Utkarsh is currently working as “Software Consultant I” for AssetOne where he is keen on harnessing AI/ML for Enterprise Asset Management. He thrives for perfection and writing quality code makes him feel alive. Over the past, he has consulted some the most fancy company including pwc, IBM India Software Labs, NTPC, Bharti Airtel are only a few. He also has interests in many different disciplines, such as DataOps, Infrastructure Automation, Cloud Architecture, Big Data, Deep Learning, and Data Engineering.
+
+In his free time, either, he write/read technical blogs, or plays Badminton. He has also received “Best Student award” by University chancellor in 2015 and “Unnati Scholarship” during his undergrad.
+
+Specialties:
+DB2
+Cloud Infrastructure
+Amazon Web Services
+Enterprise Asset Management
+IBM WebSphere
+IBM Cognos
+Java
+Python
+Automation Scripts
+Infrastructure Automation (Shell Scripting/ Powershell)
+Software Design
+
