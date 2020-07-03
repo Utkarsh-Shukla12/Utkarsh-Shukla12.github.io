@@ -1,5 +1,5 @@
-# Utkarsh.github.io
-My personal Portfolio
+# Utkarsh Shukla
+This repo was created to use [Github pages](https://pages.github.com/) to showcase my portfolio. 
 
 Please visit:
 
